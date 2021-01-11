@@ -10,4 +10,4 @@
 - HTML
 - CSS
 
-<img alt="Mobile app view" src="https://github.com/lwrgithub/eviction-prevention-landing-page-/blob/main/img/eviction-prevention-mobile-view.png" />
+<img alt="Mobile app view" src="https://github.com/lwrgithub/eviction-prevention-landing-page-/blob/master/img/eviction-prevention-mobile-view.png" />
