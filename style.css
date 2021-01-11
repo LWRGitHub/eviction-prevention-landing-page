@@ -1,3 +1,32 @@
+@media (max-width: 600px) {
+    h1 { 
+        font-size: 25px;
+    }
+    h2{
+        font-size: 22px;
+    }
+    h3{
+        font-size: 19px;
+    }
+    h4{
+        font-size: 16px;
+    }
+    h5{
+        font-size: 13px;
+    }
+    .display-1{
+        font-size: 50px;
+    }
+    img{
+        padding: 0px;
+        margin: 0px;
+    }
+    .mobile{
+        padding: 0px;
+        margin: 0px;
+    }
+}
+
 section.shadow {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border-radius: 15px;
