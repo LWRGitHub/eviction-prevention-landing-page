@@ -11,11 +11,11 @@
 - CSS
 
 
-**Web App:**
+**Web:**
 
 <img alt="Mobile app view" src="https://github.com/lwrgithub/eviction-prevention-landing-page-/blob/master/img/eviction-prevention-website-view.png" />
 
 
-**Mobile App:**
+**Mobile:**
 
 <img alt="Mobile app view" src="https://github.com/lwrgithub/eviction-prevention-landing-page-/blob/master/img/eviction-prevention-mobile-app-view.png" width="300px"/>
