@@ -9,6 +9,7 @@
 - [GitHub Pages](https://lwrgithub.github.io/eviction-prevention-landing-page-/)
 - HTML
 - CSS
+- Bootstrap
 
 
 **Web:**
