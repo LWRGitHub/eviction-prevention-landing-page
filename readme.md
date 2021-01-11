@@ -6,7 +6,7 @@
 - Web App Repository: [GitHub](https://github.com/LWRGitHub/eviction_prevention)
 
 **Langueges & Tools:**
-- GitHub Pages
+- [GitHub Pages](https://lwrgithub.github.io/eviction-prevention-landing-page-/)
 - HTML
 - CSS
 
