@@ -17,4 +17,4 @@
 
 **Mobile App:**
 
-<img alt="Mobile app view" src="https://github.com/lwrgithub/eviction-prevention-landing-page-/blob/master/img/eviction-prevention-web-app-view.png" />
+<img alt="Mobile app view" src="https://github.com/lwrgithub/eviction-prevention-landing-page-/blob/master/img/eviction-prevention-web-app-view.png" max-width="150px"/>
