@@ -12,9 +12,9 @@
 
 **Web App:**
 
-<img alt="Mobile app view" src="https://github.com/lwrgithub/eviction-prevention-landing-page-/blob/master/img/eviction-prevention-mobile-view.png" />
+<img alt="Mobile app view" src="https://github.com/lwrgithub/eviction-prevention-landing-page-/blob/master/img/eviction-prevention-web-app-view.png" />
 
 
 **Mobile App:**
 
-<img alt="Mobile app view" src="https://github.com/lwrgithub/eviction-prevention-landing-page-/blob/master/img/eviction-prevention-web-app-view.png" width="300px"/>
+<img alt="Mobile app view" src="https://github.com/lwrgithub/eviction-prevention-landing-page-/blob/master/img/eviction-prevention-mobile-app-view.png" width="300px"/>
