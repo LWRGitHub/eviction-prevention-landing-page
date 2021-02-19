@@ -14,9 +14,9 @@ This sites purpose is to provide information on the eviction prevention app. Peo
 
 **Web:**
 
-<img alt="Mobile app view" src="https://github.com/lwrgithub/eviction-prevention-landing-page-/blob/master/img/eviction-prevention-website-view.png" />
+<img alt="Mobile app view" src="https://github.com/lwrgithub/eviction-prevention-landing-page-/blob/master/img/eviction-prevention-website-view-2.png" />
 
 
 **Mobile:**
 
-<img alt="Mobile app view" src="https://github.com/lwrgithub/eviction-prevention-landing-page-/blob/master/img/eviction-prevention-mobile-app-view.png" width="300px"/>
+<img alt="Mobile app view" src="https://github.com/lwrgithub/eviction-prevention-landing-page-/blob/master/img/eviction-prevention-mobile-app-view-2.png" width="300px"/>
